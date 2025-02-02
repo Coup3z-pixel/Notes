@@ -1,35 +1,46 @@
-# Bachelor of Advanced Science
-## Computer Science
-
-> [!TIP] Keybinds
-> Go to File = `<leader>gf`
-
 > [!IMPORTANT] Assessment
 >
->
->
 
 ---
 
-> [!NOTE] Notes
+> [!TLDR] Notes
 >
 > [General Notes](./Notes/Notes.md)
+> [Intro to Information Systems][./Notes/Y1/S1/Intro to Information Systems/Databases and Database Users.md]
 >
-> [Programming in the Large](./Notes/Programming_in_the_Large/CSSE2002.md)
-> 
 
 ---
 
-> [!TODO] Courses
+> [!INFO] Courses
 >
-> ## Prepatory (2 Courses)
-> - [x] [Academic Integrity](./Courses/Academic_Integrity/)
-> - [x] [Respect At UQ](./Courses/Respect_At_UQ/)
+># Prepatory (2 Courses)
+> - [x] [Academic Integrity](Courses/Prepatory/Academic_Integrity/)
+> - [x] [Respect At UQ](Courses/Prepatory/Respect_At_UQ/)
 >
-> ## Cores (6 Units)
-> - [ ] [Advanced Theory & Practice in Science](./Courses/Advanced_Theory_and_Practice_in_Science/)
-> - [ ] [Analysis of Scientific Data](./Courses/Analysis_of_Scientific_Data/)
-> - [ ] [Advanced Analysis of Scientific Data](./Courses/Advanced_Analysis_of_Scientific_Data/)
+># Cores (6 Units)
+>## Year 1
+>### Semester 1
+>   - [ ] [Advanced Theory and Practice in Science][Courses/Year 1/Semester 1/Advanced Theory and Practice in Science/]
+>   - [ ] [Discrete Mathematics][Courses/Year 1/Semester 1/Discrete Mathematics/]
+>   - [ ] [Intro to Information Systems][Courses/Year 1/Semester 1/Intro to Information Systems/]
+>
+>### Semester 2
+>   - [ ] [Relational Database Systems][Courses/Year 1/Semester 2/Relational Database Systems/]
+>   - [ ] [Programming in the Large][Courses/Year 1/Semester 2/Programming in the Large/]
+>   - [ ] [Analysis in Scientific Data][Courses/Year 1/Semester 2/Analysis in Scientific Data/]
+>
+>## Year 2
+>### Semester 1
+>### Semester 2
+>
+>## Year 3
+>### Semester 1
+>### Semester 2
+>
+>## Year 4
+>### Semester 1
+>### Semester 2
+>
 >
 >
 > ## Comp Sci (58 Units)
