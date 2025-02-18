@@ -9,6 +9,9 @@
 > [Intro to Information Systems][./Notes/Y1/S1/Intro to Information Systems/Databases and Database Users.md]
 >
 
+> [!IMPORTANT]
+> Assessment Submission through GradeScope
+
 ---
 
 > [!INFO] Courses
@@ -23,10 +26,10 @@
 >   - [ ] [Advanced Theory and Practice in Science][Courses/Year 1/Semester 1/Advanced Theory and Practice in Science/]
 >   - [ ] [Discrete Mathematics][Courses/Year 1/Semester 1/Discrete Mathematics/]
 >   - [ ] [Intro to Information Systems][Courses/Year 1/Semester 1/Intro to Information Systems/]
+>   - [ ] [Programming in the Large][Courses/Year 1/Semester 1/Programming in the Large/]
 >
 >### Semester 2
 >   - [ ] [Relational Database Systems][Courses/Year 1/Semester 2/Relational Database Systems/]
->   - [ ] [Programming in the Large][Courses/Year 1/Semester 2/Programming in the Large/]
 >   - [ ] [Analysis in Scientific Data][Courses/Year 1/Semester 2/Analysis in Scientific Data/]
 >
 >## Year 2

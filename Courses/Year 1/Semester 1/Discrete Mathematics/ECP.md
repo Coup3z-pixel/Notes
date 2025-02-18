@@ -6,17 +6,16 @@
 - Understand some applications of mathematics to relevant fields, such as computer programming and logic.
 
 # Resources
-[Resources][https://rl.talis.com/3/uq/lists/2AE9EC25-4116-0C23-6C14-57CE8485F81C.html?lang=en-GB]
 
 # [!IMPORTANT] Assessments 
 
 | Assessment Tasks | Weight | Due Date |
 |---|---|---|
-| Assisgnment 1 | 7.5% | unknown |
-| Assisgnment 2 | 7.5% | unknown |
-| Assisgnment 3 | 7.5% | unknown |
-| Assisgnment 4 | 7.5% | unknown |
-| Examination | 20% | unknown |
-| Final Exam | 50 or 70% | unknown |
+| Assisgnment 1 | 7.5% | 20/03/2025 2:00 pm |
+| Assisgnment 2 | 7.5% | 10/04/2025 2:00 pm |
+| Assisgnment 3 | 7.5% | 8/05/2025 2:00 pm |
+| Assisgnment 4 | 7.5% | 29/05/2025 2:00 pm |
+| Mid Term | 20% | 12/04/2025 |
+| Final Exam | 50 or 70% | 21/06/2025 |
 
 

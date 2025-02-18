@@ -58,9 +58,7 @@ scientific context, and students will use scientific information and mathematica
 
 ## Final Exam
 ### Description
-The examination will be invigilated on-campus. 
-
-The final examination is closed-book. However, you may bring in a single, double-sided sheet of A4 paper containing any information you may 
+However, you may bring in a single, double-sided sheet of A4 paper containing any information you may 
 find useful for the exam.
 
 You will be allowed to bring a UQ approved calculator to the exam.  For more information and UQ policy click here. 

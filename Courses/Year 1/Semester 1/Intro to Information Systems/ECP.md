@@ -15,4 +15,3 @@
 | Paper | 25% | unknown |
 | Computer Code | 25% | unknown |
 | Final Exam | 40% | unknown |
-
