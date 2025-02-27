@@ -22,6 +22,12 @@ Learning outcomes
 ### Problem Sets
 Delieverd and Submitted in the Ed environment
 
+[!IMPORTANT] Ed lesson due every week on `Wednesday`
+[Ed Lessons][https://edstem.org/au/courses/19969/lessons]
+
+[!NOTE] You can submit as many times as possible
+[!NOTE] time ed lessons will be submitted
+
 ### Computer Code
 The assignment will also require students to critically look at a given problem and write comprehensive automated tests for your Java program.
 
