@@ -1,3 +1,8 @@
+# Info
+
+Course Cordinator:
+itia fauvre bes
+
 # Learning Objectives
 - 1 Recognise the interdisciplinary nature of modern science, including some of the similarities and differences across a range of discipline areas.
 - 2 Explain the importance of modelling in science by demonstrating the skills required to produce and analyse such models.
