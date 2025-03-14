@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Page-1" id="h6wmjd9k2zJqxu3Wb2cV">
-    <mxGraphModel>
+    <mxGraphModel dx="942" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Fin99z_cwoSPBiWg6v4M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Fin99z_cwoSPBiWg6v4M-1" target="Fin99z_cwoSPBiWg6v4M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fin99z_cwoSPBiWg6v4M-1" value="Cinema" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fin99z_cwoSPBiWg6v4M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Fin99z_cwoSPBiWg6v4M-3" target="Fin99z_cwoSPBiWg6v4M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fin99z_cwoSPBiWg6v4M-3" value="CinemaID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fin99z_cwoSPBiWg6v4M-5" value="Description" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fin99z_cwoSPBiWg6v4M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Fin99z_cwoSPBiWg6v4M-7" target="Fin99z_cwoSPBiWg6v4M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fin99z_cwoSPBiWg6v4M-7" value="&lt;div&gt;Running Time&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fin99z_cwoSPBiWg6v4M-10" value="&lt;div&gt;Attendant&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
